@@ -3,7 +3,6 @@ layout: default
 title: Home
 ---
 
-is this on?
-This is on.
+A compendium of artists.
 
-It seems it is on.
+Or scribblers.
