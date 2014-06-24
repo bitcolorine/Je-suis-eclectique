@@ -6,9 +6,9 @@ recipe-attribution-link: http:about.me/luisanino
 ---
 How easy it is for some people to call themselves artists.
 
-## Recipe
+## What do you want to be?
 
-* Watercolorist
+* A Watercolorist
 
 
 ## Method
