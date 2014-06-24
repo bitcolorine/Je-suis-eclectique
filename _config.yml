@@ -1,4 +1,4 @@
 name: Je suis eclectique
 markdown: redcarpet
-pygments: true
+highlighter: rouge
 baseurl: /Je-suis-eclectique
