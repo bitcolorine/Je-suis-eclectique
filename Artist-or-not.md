@@ -1,5 +1,5 @@
 ---
-layout: story
+layout: default
 title: Artist or not
 recipe-attribution: Luisa
 recipe-attribution-link: http:about.me/luisanino
