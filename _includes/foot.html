@@ -1,2 +1,20 @@
-</body>
-</html>
+<footer class="row">
+    <div class="large-12 columns">
+      <hr/>
+      <div class="row">
+        <div class="large-6 columns">
+          <p>© Copyright no one at all. Go to town.</p>
+        </div>
+        <div class="large-6 columns">
+          <ul class="button-group">
+       	 	{% for p in site.pages %}
+	       	 <li>
+	        	<a {% if p.url == page.url %}class="button"{% endif %} href="{{ site.baseurl }}{{ p.url }}">{{ p.title }}</a>
+	        </li>
+        	{% endfor %}
+         
+        </ul>
+        </div>
+      </div>
+    </div>
+  </footer>

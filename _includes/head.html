@@ -3,14 +3,22 @@
     <head>
         <meta charset="utf-8">
         <title>{{ page.title }}</title>
-        <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/main.css" >
+        <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/normalize.css" >
+        <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/foundation.css" >
+		<link rel="stylesheet" href="{{ site.baseurl }}/assets/css/main.css" >
     </head>
     <body>
+
 <header>
 	
-<h1>Je Suis Eclectique</h1>
+ <div class="row">
+    <div class="large-12 columns">
+      
+      {% include nav.html %}
 
-{% include nav.html %}
-
+      <h1>Je Suis Éclectique <small> art thought time.</small></h1>
+      <hr/>
+    </div>
+  </div>
 
 </header>
