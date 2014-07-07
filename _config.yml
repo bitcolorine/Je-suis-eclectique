@@ -1,4 +1,6 @@
 name: Je suis eclectique
 markdown: redcarpet
 highlighter: pygments
+permalink: /:categories/:year/:month/:day/:title.html
+fullname: Luisa Fernanda
 baseurl: /Je-suis-eclectique
