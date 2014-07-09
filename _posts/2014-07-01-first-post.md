@@ -6,7 +6,7 @@ categories: tests
 ---
 
 
-# I'm trying to make sense
+## I'm trying to make sense
 
 So this Jekyll thing is looking good. I wonder if I'll get used to writing everything by hand, until I get to using some sort of task runner or whatnot.
 Meanwhile, I just want to build a basic page so I can move Variableskies.com to here.
