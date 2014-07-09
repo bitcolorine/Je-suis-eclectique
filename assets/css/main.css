@@ -3,3 +3,16 @@ body {
 	font-family: arial;
 
 }
+
+/* Navigation */
+
+div.navigation
+{
+	float: right;
+
+}
+
+.title {
+	text-align: center;
+
+}
