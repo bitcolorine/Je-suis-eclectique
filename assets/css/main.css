@@ -4,16 +4,35 @@ body {
 
 }
 
+
+/* Main title */
+.title {
+	font-family: Futura;
+	text-align: center;
+
+}
+
 /* Navigation */
 
 div.navigation
 {
 	float: right;
+	margin-top: 15px;
 
 }
 
-.title {
-	font-family: tangerine;
-	text-align: center;
 
+
+ul.nav li {
+	display: inline;
+	margin-right: 10px;
+
+}
+
+/* aside */
+
+ul.side-nav {
+list-style: none;
+margin-left: 0;
+font-family: futura;
 }

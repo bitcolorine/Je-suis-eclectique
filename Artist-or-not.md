@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Artist or not
-permalink: /artist-or-not
+permalink: /artist-or-not/
 ---
 How easy it is for some people to call themselves artists.
 
