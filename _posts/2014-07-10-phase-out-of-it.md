@@ -79,7 +79,7 @@ The same day, as the my epiphanies shone bright, another App I had been eyeing c
 
 Here, inner debates and things that are worth sharing. On my journal app private stuff. 
 
-Here it is. First real post on my brand now site. 
+Here it is. First real post on my brand new site. 
 
 
 
