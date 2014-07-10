@@ -36,3 +36,17 @@ list-style: none;
 margin-left: 0;
 font-family: futura;
 }
+
+/* Footer */
+
+ul.foot {
+
+	list-style: none;
+}
+
+ul.foot li {
+
+	display: inline;
+	margin-right: 10px;
+
+}

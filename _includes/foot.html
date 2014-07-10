@@ -1,3 +1,4 @@
+
 <footer class="row">
     <div class="large-12 columns">
       <hr/>
@@ -6,14 +7,16 @@
           <p>© Copyright mine unless otherwise noted.</p>
         </div>
         <div class="large-6 columns">
-          <ul class="button-group">
+          <!--
+          <ul class="foot">
        	 	{% for p in site.pages %}
 	       	 <li>
-	        	<a {% if p.url == page.url %}class="button"{% endif %} href="{{ site.baseurl }}{{ p.url }}">{{ p.title }}</a>
+	        	<a {% if p.url == page.url %}class="active"{% endif %} href="{{ site.baseurl }}{{ p.url }}">{{ p.title }}</a>
 	        </li>
         	{% endfor %}
          
         </ul>
+      -->
         </div>
       </div>
     </div>
