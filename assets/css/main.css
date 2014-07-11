@@ -7,7 +7,7 @@ body {
 
 /* Main title */
 .title {
-	font-family: Futura;
+	font-family: Futura, Futura-Medium, "Futura Medium", "Century Gothic", CenturyGothic, sans-serif;
 	text-align: center;
 
 }
