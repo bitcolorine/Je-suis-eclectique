@@ -1,6 +1,7 @@
 body {
 
 	font-family:'Raleway', sans-serif;
+	background-color: #fdf7eb;
 
 }
 
@@ -8,6 +9,13 @@ body {
 /* Main titles */
 .title {
 	font-family:'Playfair Display SC', serif;
+	color: #60625f;
+	
+
+}
+
+.subtitre {
+	color: #f5ac94;
 	
 
 }
@@ -43,6 +51,18 @@ ul.nav li {
 	list-style: none;
 	
 
+}
+
+/* Links */
+
+a {
+  color: #536eb8;
+
+}
+  
+a:hover, 
+a:focus {
+    color: #7387bc; 
 }
 
 

@@ -1,9 +1,11 @@
-<ul>
-  {% for post in site.posts %}
-    <li>
-     <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
 
-     <p>{{ post.excerpt | strip_html }}</p>
-    </li>
+  {% for post in site.posts %}
+   <header>
+     <h2> <small><a href="{{ site.baseurl }}{{ post.url }}"> {{ post.title }} </a> </small></h2>
+     </header>
+
+     <article>{{ post.excerpt | strip_html }}</article>
+  
+    <hr>
   {% endfor %}
-</ul>
+

@@ -4,4 +4,5 @@ highlighter: pygments
 fullname: Luisa Fernanda
 baseurl: /Je-suis-eclectique
 permalink: /:year/:month/:title
+excerpt_separator: ""
 paginate: 10

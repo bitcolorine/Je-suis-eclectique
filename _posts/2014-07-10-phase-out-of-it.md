@@ -5,8 +5,11 @@ date:   2014-07-10
 categories: inner-debates
 ---
 
+# <small> Phasing out of it</small>
 
 The act of writing is always intriguing. To see someone writing, cracks my curiosity wide open. I'm curious about everyone but I prefer the act of making up stories in my head as opposed to knowing the real one. 
+
+<!--more-->
 
 When I was young, I saw a classmate writing what seemed a letter. Without any consciense whatsoever I asked what she was writing and she replied: mind your own business!
 
