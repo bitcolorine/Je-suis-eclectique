@@ -1,23 +1,29 @@
 body {
 
-	font-family: arial;
+	font-family:'Raleway', sans-serif;
 
 }
 
 
-/* Main title */
+/* Main titles */
 .title {
-	font-family: Futura, Futura-Medium, "Futura Medium", "Century Gothic", CenturyGothic, sans-serif;
-	text-align: center;
+	font-family:'Playfair Display SC', serif;
+	
 
 }
+
+h1, h2, h3, h4, h5, h6 {
+
+	font-family: 'Playfair Display SC', serif;
+}
+
 
 /* Navigation */
 
 div.navigation
 {
 	float: right;
-	margin-top: 15px;
+	margin-top: 35px;
 
 }
 
@@ -28,6 +34,17 @@ ul.nav li {
 	margin-right: 10px;
 
 }
+
+
+/* Post list*/
+
+.posts ul {
+
+	list-style: none;
+	
+
+}
+
 
 /* aside */
 
