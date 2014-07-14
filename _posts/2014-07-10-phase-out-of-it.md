@@ -1,8 +1,8 @@
 ---
-layout: default
+layout: post
 title:  "Phasing out of it"
 date:   2014-07-10
-categories: inner-debates
+category: Daily
 ---
 
 # <small> Phasing out of it</small>

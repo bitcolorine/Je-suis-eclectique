@@ -1,8 +1,8 @@
 ---
-layout: default
+layout: post
 title:  "Second post"
 date:   2014-07-09
-categories: tests
+category: tests
 ---
 
 ## Phew!
