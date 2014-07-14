@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: home
 title: Artist or not
 permalink: /artist-or-not/
 ---

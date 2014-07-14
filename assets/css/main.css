@@ -87,3 +87,13 @@ ul.foot li {
 	margin-right: 10px;
 
 }
+
+/* front page images */
+
+.illustration {
+
+	padding: 5px;
+	border: 1px solid white;
+	background-color: #f5ac94;
+}
+
