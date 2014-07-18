@@ -72,7 +72,9 @@ Or... do I feel
 
 By monitoring my reactions, I know when to stop researching and start doing.
 
-### Avoid thinking about making a living with what you're making.
+### Avoid thinking about making a living with what you're currently doing.
+
+It distracts, it makes you think about what others would like.
 Just remember: 2 years of practice.
 
 In my next post I will describe why Karl Lagerfeld is someone worth listening to.

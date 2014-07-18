@@ -4,8 +4,17 @@ title: About
 permalink: /about/
 ---
 
-This is a first website using Jekyll which I keep mispelling as Jeckyll.
-I wonder if this will work in the long run. I will write a few posts and then try to style them using some responsive framework. Hopefully I will have learned something new this week.
+This is a website that explores creativity, artistry and talent. My personal road to finding my creative outlet after decades of searching and trying everything. 
+
+In short, this is about the "Someday Creative".  
+
+I've had many blogs. One ran for 8 years. 
+I tried all the platforms: Blogger, Typepad, WordPress both the free and the hosted version and Tumblr.
+After I closed the 8 year old blog I could never feel at home. I was always afraid I would lose my content, or that it would be impossible to export. Tumblr being the most recent example.
+
+So using my front-end skills and a lot of patience, I decided to give Jekyll a try. My site will always be with me. Though at the moment I'm hosting it on Github pages, if Github pulls [another](http://online.wsj.com/articles/harassment-claims-make-startup-github-grow-up-1405639553) funny stunt, I can simply grab all my files and put them elsewhere.
+
+
 
 To calm my obsessions [I paint.](http://miraenmiburbuja.tumblr.com)
 
