@@ -2,7 +2,6 @@
 layout: post
 title:  "Second post"
 date:   2014-07-09
-category: tests
 ---
 
 ## Phew!
