@@ -6,7 +6,7 @@ permalink: /about/
 
 <img src="{{ site.baseurl }}/assets/img/vivienne-inspired.jpg" alt="Vivienne Westwood inspired watercolour">
 
-This is a website that explores creativity, artistry and talent. My personal road to finding my creative outlet after decades of searching and trying everything. 
+This is a website that explores creativity, artistry and talent. My personal road to finding my creative outlet after decades of searching and trying (almost) everything. 
 
 In short, this is about the "Someday Creative".  
 
