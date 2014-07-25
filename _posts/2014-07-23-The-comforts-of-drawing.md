@@ -113,21 +113,7 @@ How do you let go and begin to produce your own work?
 This is what my upcoming book is about. 
 It's truly a labor of love for myself first, for those years of chasing peace of mind and for my fellow creatively anxious or anxiously creative.
 
-Subscribe here.
+If you are interested in learning when my book will come out, please subscribe here.
+I will send you a sample chapter.
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
