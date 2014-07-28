@@ -7,12 +7,12 @@ Layout: default
 <div class="row">
  
      
- 	<div class="large-12 columns" role="content">
+ 	<div class="small-9 columns" role="content">
 
 
   
 	  <header class="post-header">
-	    <p class="meta">{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
+	    <p class="meta">{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}  {% if page.categories %} • {{ page.categories }} {% endif %}</p>
 	  </header>
   
 		  <!-- <h2 class="title">{{ page.title }}</h2>
@@ -20,7 +20,20 @@ Layout: default
 
 	  <article class="post-content">
 	  {{ content }}
+
+	  {{ post.category}}
 	  </article>
+
+	</div>
+
+	<div class="small-3 columns">
+		
+<ul >
+{% for category in site.categories %}
+    <li>{{ category[0] }}</li>
+{% endfor %}
+</ul>
+
 
 	</div>
 
