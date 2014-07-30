@@ -3,11 +3,7 @@ url: http://jesuiseclectique.com
 markdown: redcarpet
 highlighter: pygments
 fullname: Luisa Fernanda
-<<<<<<< HEAD
 baseurl: ""
-=======
-baseurl: /Je-suis-eclectique
->>>>>>> newindex
 permalink: /:categories/:year/:month/:title
 excerpt_separator: ""
 categories:  Tech Creativity Illustration Daily
