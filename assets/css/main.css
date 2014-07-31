@@ -2,7 +2,7 @@ body {
 
 	font-family:'Raleway', sans-serif;
 	background-color: #fdf7eb;
-	line-height: 1.3em;
+	line-height: 1.4em;
 
 }
 
@@ -91,7 +91,7 @@ ul.foot li {
 /* front page images */
 
 .mainimg {
-	height: 520px;
+
 	background-image: url(../img/JSE.jpg);
 	background-repeat: no-repeat;
 	background-position: top ;
@@ -107,16 +107,41 @@ ul.foot li {
 
 .legende {
 
-	position: absolute;
-	bottom: 50px;
-	left:50px;
-	font-family: 'Playfair' Serif;
-	font-size: 1.3em;
-	line-height: 1.4em;
+	position: relative;
+	/*bottom: 50px;
+	left:50px; */
+	font-family: 'Raleway' sans-serif;
+	font-size: 90%;
+	line-height: 1.30em;
 	color: #fff;
 	background-color: rgba(245, 172, 148, 0.8);
 	padding: 5px;
+	margin: 250px 20px 10px 20px;
+	border: 3px dotted #e5e5e5;
+	box-shadow: inset 0 -1px 0 0 #e5e5e5, inset 0 1px 0 0 #e5e5e5, 0 1px 0 0 #e5e5e5, 0 -1px 0 0 #e5e5e5;
+	margin-bottom: 1px;
 
+
+}
+
+.caption{
+
+	position: relative;
+	bottom:-10px;
+	left: 20px;
+	padding-left: 10px;
+	padding-right: 10px;
+	background: rgba(255, 255, 255, 0.8);
+
+	
+
+}
+
+.definition {
+
+	font-family: 'Playfair' serif;
+	font-size: 1.5em;
+	line-height: 1.9em;
 
 }
 .illustration {
