@@ -74,6 +74,14 @@ margin-left: 0;
 font-family: futura;
 }
 
+
+/******** POSTS *******/
+
+.post-content p{
+
+	text-align: justify;
+}
+
 /* Footer */
 
 ul.foot {
@@ -108,18 +116,17 @@ ul.foot li {
 .legende {
 
 	position: relative;
-	/*bottom: 50px;
-	left:50px; */
+	bottom: 0;
 	font-family: 'Raleway' sans-serif;
 	font-size: 90%;
-	line-height: 1.30em;
+	line-height: 1.15em;
 	color: #fff;
-	background-color: rgba(245, 172, 148, 0.8);
+	background-color: rgba(245, 172, 148, 0.7);
 	padding: 5px;
 	margin: 250px 20px 10px 20px;
-	border: 3px dotted #e5e5e5;
+	/*border: 3px dotted #e5e5e5;
 	box-shadow: inset 0 -1px 0 0 #e5e5e5, inset 0 1px 0 0 #e5e5e5, 0 1px 0 0 #e5e5e5, 0 -1px 0 0 #e5e5e5;
-	margin-bottom: 1px;
+	margin-bottom: 1px;*/
 
 
 }
@@ -127,21 +134,21 @@ ul.foot li {
 .caption{
 
 	position: relative;
-	bottom:-10px;
-	left: 20px;
 	padding-left: 10px;
 	padding-right: 10px;
 	background: rgba(255, 255, 255, 0.8);
+	color: #60625F;
 
 	
 
 }
 
 .definition {
-
+	text-align: right;
 	font-family: 'Playfair' serif;
 	font-size: 1.5em;
 	line-height: 1.9em;
+	color: #60625F;
 
 }
 .illustration {
@@ -151,3 +158,18 @@ ul.foot li {
 	background-color: #f5ac94;
 }
 
+.modules {
+
+	margin-top: 25px;
+
+}
+
+/* mailchimp */
+
+#mc_embed_signup label {
+	color: white;
+}
+
+form#mc-embedded-subscribe-form {
+background-color: #7387BC;
+}
