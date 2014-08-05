@@ -9,7 +9,7 @@ permalink: /about/
 
 My name is Luisa.
 
-This is a website that explores creativity, artistry and talent. 
+This is a website that explores creativity, artistic expression and talent. 
 
 I started to draw in April 2014. Before that I didn't believe I could. I'd bought several books on drawing, I had spent a good amount of money on sketchbooks, pencils, erasers, pens, coloured pencils, etc and I never used them.
 

@@ -6,12 +6,19 @@ body {
 
 }
 
+/*links and buttons*/
+
 a:hover {
 	background: #fff;
 }
 
 a:active {
 	background: #f5ac94;
+}
+
+a.button {
+font-family: 'Raleway' sans-serif;
+background: #F5AC94;
 }
 
 /* Main titles */
@@ -105,13 +112,7 @@ ul.foot li {
 
 /* front page images */
 
-.canvas {
 
-	border: 3px dotted #e5e5e5;
-	box-shadow: inset 0 -1px 0 0 #e5e5e5, inset 0 1px 0 0 #e5e5e5, 0 1px 0 0 #e5e5e5, 0 -1px 0 0 #e5e5e5;
-	margin-bottom: 1px;
-
-}
 
 .mainimg {
 	height: 420px;
@@ -181,4 +182,7 @@ ul.foot li {
 
 form#mc-embedded-subscribe-form {
 background-color: #7387BC;
+margin-bottom: 20px;
 }
+
+
