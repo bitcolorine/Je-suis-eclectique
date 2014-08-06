@@ -168,6 +168,12 @@ ul.foot li {
 	background-color: #f5ac94;
 }
 
+img.book-cover {
+margin-right: auto;
+margin-left: auto;
+display: block;
+}
+
 .modules {
 
 	margin-top: 25px;
