@@ -125,6 +125,14 @@ ul.foot li {
 	
 }
 
+img.inpost {
+border: 2px solid #9FA3C8;
+padding: 9px;
+margin-right: auto;
+margin-left: auto;
+display: block;
+}
+
 
 .legende {
 	
