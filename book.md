@@ -63,12 +63,12 @@ Apendix:
 <li>Secret Forum</li>
 </ul>
 
-This is a book that covers the realities, pitfals and epiphanies of finding your creative outlet, about what it means to be creative, talented and/or artistic 
-It's about what to do once you find the artform you were meant to practice.
+<p class="panel">This is a book that covers the realities, pitfalls and epiphanies of finding your creative outlet, about what it means to be creative, talented and/or artistic 
+It's about what to do once you find the artform you were meant to practice.</p>
 
 <h3>What this book is not </h3>
 
-This is not a business book. It will not teach you how monetize anything. It will teach you to hold on to your creativity and like the good old masters, produce a lot of work for the simple reason that you have no choice.
+<p>This is not a business book. It will not teach you how monetize anything. It will teach you to hold on to your creativity and like the good old masters, produce a lot of work for the simple reason that you have no choice.</p>
 
 <h3>If you:</h3>
 
@@ -78,13 +78,13 @@ This is not a business book. It will not teach you how monetize anything. It wil
 <li>Spent obscene amounts of time consuming what other people make</li>
 <li>Spent a lot of money learning something or other</li>
 <li>You have a folder called "Someday"</li>
-<li>You wake up and remember your age before you remember the day of the week?</li>
+<li>You wake up and remember your age before you remember the day of the week</li>
 (Wether you're 30, 40 or 50, the desire to make something is mysteriously linked to age)</ul>
 
-I then invite to take a long deep breath of relief, because I can assure you you can find exactly what you were meant to create. I found it and once I did, it took me three months go from zero to satisfied with my work and I know that my best work is ahead.
-Your's is too.
+<p>I then invite to take a long deep breath of relief, because I can assure you you can find exactly what you were meant to create. I found it and once I did, it took me three months go from zero to satisfied with my work and I know that my best work is ahead.
+Your's is too.</p>
 
-So sign up be the among the early readers and find your creative outlet once and for all.
+<p>So sign up be the among the early readers and find your creative outlet once and for all.</p>
 </div>
 
 <div class="medium-5 columns">
