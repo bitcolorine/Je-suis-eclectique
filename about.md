@@ -4,27 +4,32 @@ title: About
 permalink: /about/
 ---
 
-<img src="{{ site.baseurl }}/assets/img/illustration-1.jpg" alt="Vivienne Westwood inspired watercolour"> <br>
-<span class="caption">Watercolour illustration </span>
+<img src="{{ site.baseurl }}/assets/img/luisa.jpg" alt="luisa"> <br>
+<span class="caption">I do love my reading glasses, I don't feel the same about my hair. </span>
 
 My name is Luisa.
 
 This is a website that explores creativity, artistic expression and talent. 
 
 
-My desire to create has been present since my childhood but for reasons that are familiar to many of us, I decided to pursue other things.  
+I've wanted to create things for the longest time but for reasons that are familiar to many of us, I decided to pursue other things. 
+
+Most of all I wanted to draw and illustrate. I did everything but... I thought I couldn't. I thought:
+"I have no talent for drawing" "I don't have an eye" "I don't draw a straight line", the usual...
 
 When I finally set my pencil to paper I discovered there was no need to draw upside down, or to divide the face into thirds, that I didn't need to use a grid, or learn perspective to draw what I wanted. I entered a period of bliss.
 
 But to get here I've had to try many things: creativity is a vast word and I couldn't narrow down if I wanted to be "creative" or "artistic".
 
-I want to share how I finally found my creative outlet after nine years of trying all sorts of disciplines.  
+I want to share how I finally found my creative outlet after *nine years* of trying all sorts of disciplines.  
 
 In short, this is about the Someday Creative, the Eclectic Creative. 
 
 I'm a strange mélange of web developer, librarian, bookseller, writer and more recently, illustrator. 
 
  I speak English, Spanish and French. I love to mix them up.
+
+ I don't like to cook but I find cleaning the kitchen extremely relaxing. 
 
  The word [Eclectic](http://geniscarreras.com/philographics/#/eclecticism/) defines who I am.
 
