@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-<img src="{{ site.baseurl }}/assets/img/luisa.jpg" alt="luisa"> <br>
+<img src="{{ site.baseurl }}/assets/img/luisafer.jpg" alt="luisa"> <br>
 <span class="caption">I do love my reading glasses, I don't feel the same about my hair. </span>
 
 My name is Luisa.
