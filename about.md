@@ -11,7 +11,6 @@ My name is Luisa.
 
 This is a website that explores creativity, artistic expression and talent. 
 
-
 I've wanted to create things for the longest time but for reasons that are familiar to many of us, I decided to pursue other things. 
 
 Most of all I wanted to draw and illustrate. I did everything but... I thought I couldn't. I thought:
