@@ -8,4 +8,5 @@ baseurl: ""
 permalink: /:categories/:year/:month/:title
 excerpt_separator: ""
 categories:  Tech Creativity Illustration Daily
-paginate: 10
+paginate: 5
+paginate_path: blog/page:num
