@@ -5,7 +5,7 @@ date:   2014-08-17
 category: creativity
 ---
 
-#Making deliberate bad art
+# Making deliberate bad art
 
 We forget all the time. Comparing yourself to others is stepping off a cliff.  Nothing good can come of it. 
 
@@ -65,7 +65,7 @@ I use scraps of paper, I see the colours bleed into each other, I see my origina
 <img src="{{ site.baseurl }}/assets/img/badart-luisa.jpg" alt="Bad Art by Luisa"> <br>
 <span class="caption">Some of my bad art after having an *existential crisis* </span>
 
-Bad art is a ticket to freedom, it's the permission slip to do what you like without taking yourself too seriously while still making progress.
+> Bad art is a ticket to freedom, a permission slip to do what you like without taking yourself too seriously while still making progress. [Click to Tweet!](http://ctt.ec/Oexja)
 
 Stealing is also a ticket out of discouragement. 
 
