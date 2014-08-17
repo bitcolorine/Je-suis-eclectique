@@ -8,7 +8,7 @@ permalink: /contact/
 
 <p>Especially if you want to share thoughts on finding and commiting to your true creative outlet.</p>
 
-<p><a href="https://twitter.com/intent/tweet?screen_name=bitcolorine">On Twitter</a></p>
+<p><a href="https://twitter.com/intent/tweet?screen_name=suis_eclectique">On Twitter</a></p>
 <p>Email: luisa[at]jesuiseclectique.com</p>
 
 ### Current Projects:

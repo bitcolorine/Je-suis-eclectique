@@ -39,6 +39,13 @@ h1, h2, h3, h4, h5, h6 {
 	color: #60625f;
 }
 
+/* Content */
+
+
+p {
+	font-size: 115%;
+}
+
 
 /* Navigation */
 
@@ -154,8 +161,10 @@ display: block;
 	position: relative;
 	padding-left: 10px;
 	padding-right: 10px;
+	margin-top: 5px;
 	background: rgba(255, 255, 255, 0.8);
 	color: #60625F;
+
 
 	
 
@@ -174,6 +183,11 @@ display: block;
 	padding: 5px;
 	border: 1px solid white;
 	background-color: #f5ac94;
+}
+
+.portrait {
+	border-radius: 50%;
+
 }
 
 img.book-cover {

@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-<img src="{{ site.baseurl }}/assets/img/luisafer.jpg" alt="luisa"> <br>
+<img class="portrait" src="{{ site.baseurl }}/assets/img/luisafer.jpg" alt="luisa"> <br>
 <span class="caption">I do love my reading glasses, I don't feel the same about my hair. </span>
 
 My name is Luisa.
@@ -50,6 +50,6 @@ To calm my obsessions [I illustrate.](http://miraenmiburbuja.tumblr.com) -->
 
 
 Contact me:
-on Twitter: [@bitcolorine](http://twitter.com/bitcolorine)
+on Twitter: [@suis_eclectique](http://twitter.com/suis_eclectique)
 or luisa[at]jesuiseclectique.com
 
