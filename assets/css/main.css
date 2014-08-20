@@ -196,6 +196,12 @@ margin-left: auto;
 display: block;
 }
 
+img.twitter {
+margin-right: auto;
+margin-left: auto;
+display: block;
+}
+
 blockquote.copy {
 background: #FFE4C4;
 max-width: 50%;
