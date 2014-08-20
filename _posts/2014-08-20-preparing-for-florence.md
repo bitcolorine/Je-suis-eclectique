@@ -29,8 +29,6 @@ Today, a few exercises in people sketching.
 <span class="caption">Some people sketching to warm up.</span>
 
 After Florence, we return to Montreal.
-The real challenge begins then. The focus on finding the time to keep creating and being prolific when real life takes over. 
-One thing is certain, I will not postpone this any longer. 
-I will continue to write about the experience. 
+The real challenge begins then, finding the time to keep creating and being prolific when real life takes over.
 
 Every day I believe that art happens simply when you stop postponing it.
