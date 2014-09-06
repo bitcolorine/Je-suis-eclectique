@@ -14,16 +14,15 @@ permalink: /book/
 	<h3>This is a book for the adults who’ve postponed their creativity and artistic expression. </h3>
 
 	<ul>
-		<li>For whom the creative spark has never died but has had too many other things to take care of first.</li>
+		<li>For whom the creative spark has not died but has had too many things to take care of first.</li>
 		<li>For the dabbler</li>
 		<li>For the talented unawares</li>
-		<li>For the person who “would love to that one day”</li>
+		<li>For the person who “would love to do that one day”</li>
 		<li>For the person with elevated creativity, talent and taste but poor self-discipline</li>
 		<li>For those who are intimidated by statements like “I’ve been doing X for one hundred years”</li>
 		<li>For those who think they lack focus</li>
 		<li>For those who have lost an unmeasurable amount of life consuming what other people make.
 </li>
-		<li>For people who’s age is an obstacle to creativity and think that only the kids are creative.</li>
 		<li>For me who has spent the first four decades of her life searching for the “medium” and trying everything at once.</li>
 		
 	</ul>
@@ -33,7 +32,7 @@ permalink: /book/
 
 <blockquote class="copy">For me who started drawing and painting at 41 and didn’t know I could.</blockquote>
 
-<blockquote class="copy">For you, who has not given creativity time and place.</blockquote>
+<blockquote class="copy">For you, if you haven't given creativity a time and a place.</blockquote>
 
 <h3>Table of Contents:</h3> 
 (Improving and building upon)
@@ -45,7 +44,7 @@ permalink: /book/
 	<li>What does it mean to be talented</li>
 	<li>What does it mean to be creative</li>
 	<li>What does it mean to be artistic</li>
-	<li>Does the Internet hinder creativity?</li>
+	<li>Does the Internet hinder creativity or does it propell it?</li>
 	<li>Time management</li>
 	<li>Age and artistic expression</li>
 	<li>Thinking more than doing</li>
@@ -64,11 +63,11 @@ Apendix:
 </ul>
 
 <p class="panel">This is a book that covers the realities, pitfalls and epiphanies of finding your creative outlet, about what it means to be creative, talented and/or artistic 
-It's about what to do once you find the artform you were meant to practice.</p>
+It's about what to do once you find the art form you were meant to practice.</p>
 
 <h3>What this book is not </h3>
 
-<p>This is not a business book. It will not teach you how monetize anything. It will teach you to hold on to your creativity and like the good old masters, produce a lot of work for the simple reason that you have no choice.</p>
+<p>This is not a business book. It will not teach you how monetize anything. It will teach you to hold on to your creativity and, like the good old masters, produce a lot of work for the simple reason that you have no choice.</p>
 
 <h3>If you:</h3>
 
@@ -79,12 +78,13 @@ It's about what to do once you find the artform you were meant to practice.</p>
 <li>Spent a lot of money learning something or other</li>
 <li>You have a folder called "Someday"</li>
 <li>You wake up and remember your age before you remember the day of the week</li>
-(Wether you're 30, 40 or 50, the desire to make something is mysteriously linked to age)</ul>
+(Whether you're 30, 40 or 50, the desire to make something is mysteriously linked to age)</ul>
 
-<p>I then invite to take a long deep breath of relief, because I can assure you you can find exactly what you were meant to create. I found it and once I did it took me three months go from zero to satisfied with my work and I know that my best work is ahead.
+<p>I then invite to take a long deep breath of relief, because I can assure you you can find exactly what you were meant to create. I found it and once I did it took me three months go from zero to satisfied with my work and I know that my best work is ahead.</p>
+
 Your's is too.</p>
 
-<p>So sign up be the among the early readers and find your creative outlet once and for all.</p>
+<p>So sign up be the among the early readers, it's free!</p>
 </div>
 
 <div class="medium-5 columns">
