@@ -11,9 +11,9 @@ My name is Luisa.
 
 This is a website that explores creativity, artistic expression and talent. 
 
-I've wanted to create things for the longest time but for reasons that are familiar to many of us, I decided to pursue other things. 
+I've wanted to create, draw, write and paint for the longest time but for reasons that are familiar to many of us, I decided to pursue other things. 
 
-Most of all I wanted to draw and illustrate. I did everything but... I thought I couldn't. I thought:
+I thought:
 "I have no talent for drawing" "I don't have an eye" "I don't draw a straight line", the usual...
 
 When I finally set my pencil to paper I discovered there was no need to draw upside down, or to divide the face into thirds, that I didn't need to use a grid, or learn perspective to draw what I wanted. I entered a period of bliss.
@@ -30,7 +30,7 @@ I'm a strange mélange of web developer, librarian, bookseller, writer and more 
 
  I don't like to cook but I find cleaning the kitchen extremely relaxing. 
 
- The word [Eclectic](http://geniscarreras.com/philographics/#/eclecticism/) defines who I am.
+ The word [Eclectic](http://geniscarreras.com/philographics/#/eclecticism/) is my compass.
 
 If I have to pick one goal it would be to create and to appreciate other people's beautiful creations. 
 
