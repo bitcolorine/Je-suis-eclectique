@@ -14,7 +14,7 @@ permalink: /book/
 	<h3>This is a book for the adults who’ve postponed their creativity and artistic expression. </h3>
 
 	<ul>
-		<li>For whom the creative spark has not died but has had too many things to take care of first.</li>
+		<li>For whom the creative spark has not died but as life happened it was pushed aside.</li>
 		<li>For the dabbler</li>
 		<li>For the talented unawares</li>
 		<li>For the person who “would love to do that one day”</li>
@@ -73,23 +73,25 @@ It's about what to do once you find the art form you were meant to practice.</p>
 
 <ul>
 
-	<li>Searched and searched</li>
-<li>Spent obscene amounts of time consuming what other people make</li>
-<li>Spent a lot of money learning something or other</li>
+	<li>Are on a never-ending search of creative time and space</li>
+<li>Spend obscene amounts of time consuming what other people make</li>
+<li>Spend a lot of money learning something or other</li>
 <li>You have a folder called "Someday"</li>
 <li>You wake up and remember your age before you remember the day of the week</li>
 (Whether you're 30, 40 or 50, the desire to make something is mysteriously linked to age)</ul>
 
-<p>I then invite to take a long deep breath of relief, because I can assure you you can find exactly what you were meant to create. I found it and once I did it took me three months go from zero to satisfied with my work and I know that my best work is ahead.</p>
+<p>I invite you to take a long deep breath of relief, because I can assure you, you can find exactly what you were meant to create. I found it and once I did it took me three months go from zero to satisfied with my </p>
+
+<p>I'm convinced that my best work is ahead and yours is too</p>
 
 Your's is too.</p>
 
-<p>So sign up be the among the early readers, it's free!</p>
+<p>So sign up be the among the early readers and get a free advanced copy in electronic version.</p>
 </div>
 
 <div class="medium-5 columns">
 
-<h4>Sign up to be notified when the book is released.</h4>
+<h4>Plus get a bi-monthly collection of art and creativity resources.</h4>
 
 			<!-- Begin MailChimp Signup Form -->
 				<link href="//cdn-images.mailchimp.com/embedcode/slim-081711.css" rel="stylesheet" type="text/css">
@@ -111,7 +113,7 @@ Your's is too.</p>
 	<!--End mc_embed_signup-->
 
 	</div>
-	<div class="medium-7 colums"></div>
+	<div class="medium-7 columns"></div>
 
 </div>
 

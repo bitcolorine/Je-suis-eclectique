@@ -21,6 +21,11 @@ font-family: 'Raleway' sans-serif;
 background: #F5AC94;
 }
 
+button:hover, button:focus, .button:hover, .button:focus {
+    background-color: #60625f; }
+  button:hover, button:focus, .button:hover, .button:focus {
+    color: white; }
+
 /* Main titles */
 .title {
 	font-family:'Playfair Display SC', serif;
