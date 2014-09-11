@@ -7,7 +7,10 @@ category: creativity
 ## How to maintain your creative output
 
 I was afraid I would lose momentum when I arrived to Montreal. 
-These days, I feel anxious at anything that takes minutes away from sitting down with my sketchbook or my watercolours, at worse I get grumpy.
+These days, I feel anxious at anything that takes minutes away from sitting down with my sketchbook or my watercolours.
+
+I get grumpy.
+
 Losing momentum translates to:
 Cancelling social engagements. I make excuses, I postpone, I rather not...
 Next, I start "killing time", if I have 30 minutes between being ready and having to leave for work, I will grab the phone and fiddle with it.
