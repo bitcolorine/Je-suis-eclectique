@@ -84,7 +84,6 @@ It's about what to do once you find the art form you were meant to practice.</p>
 
 <p>I'm convinced that my best work is ahead and yours is too</p>
 
-Your's is too.</p>
 
 <p>So sign up be the among the early readers and get a free advanced copy in electronic version.</p>
 </div>
