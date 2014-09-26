@@ -36,9 +36,9 @@ This evening, I have two choices, considering my tiredness, I can sit in front o
 
 Do you coerce yourself? Is it healthy? What are the consequences of self-coercion? 
 
-If I coerce myself, usually I end up feeling like I didn't do anything. The thing I made myself do, doesn't count much, it counts that I checked it off, while if I manage to ease myself into thinking I should do at least a little, I wind up doing the full stretch and sometimes more. 
+If I coerce myself, usually I end up feeling like I didn't do anything. The thing I made myself do doesn't count much, it only counts because I checked it off, while if I manage to ease myself into thinking I should do at least a little, I wind up doing the full stretch and sometimes more. 
 
-Conclusion, don't coerce yourself, don't punish yourself because the checkmark on the to-do list isn't what counts. 
+Conclusion, don't coerce yourself, gently approach the task and begin something. The checkmark on the to-do list isn't what counts. 
 
 What counts is being happy for a piece that didn't exist before.
 
