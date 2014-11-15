@@ -31,7 +31,8 @@ But I can't stop, and I find myself reading more and more about art, art techniq
 
 I learned Photoshop and Illustrator at an insane speed. I took several classes, I started studing color theory, I launched a 100 day project with a friend where I would draw 100 imaginary animals.
 
-And I still can't admit to myself that I want to do this. That I want to create that collection of animals, that I want to illustrate the book by my favorite gloomy author, that I got so excited by learning how to make hand made block patterns that it was the best day of 2014. 
+
+>And I still can't admit to myself that I want to do this. That I want to create that collection of animals, that I want to illustrate the book by my favorite gloomy author, that I got so excited by learning how to make hand made block patterns that it was the best day of 2014. 
 
 I went to my favorite bookshop today. I used to hit the literature section and come out with a pile of books. Today, I spent most of the time crouching by the art section and devouring all those abandoned coffee table books. 
 
@@ -40,17 +41,25 @@ I don't need any more signs do I?
 But so many questions I do have.
 
 When do you know when a piece is ready to be shown to the world?
+
 Where do you find someone to give you honest feedback in a world where the slightest adivice costs you hundreds of dollars?
+
 How do you scan your work and how to you make sure you are cleaning it up correctly in Photoshop?
+
 Is it allowed to modify your work in Photoshop?
+
 What do I want to ultimately make?
+
 What is my style?
+
 What if I get bored with my style?
+
 How do I stop compulsively looking at other people's work and feeling like you have three mountains to climb?
 
-But most of all, how do I take the turn into making art that could potentially sell and finance this obsession of mine?
 
-And how do I combine it with web development? Do I have to sacrifice one or the other?
+But most of all, how do I take the turn into making art that could potentially sell and finance this obsession of mine without feeling strange and treacherous?
+
+And how do I combine it with web development? *Do I have to sacrifice one or the other?*
 
 From an accidental watercolor class on Skillshare, my whole life has been put into question. All my plans and my focus which had already cost me blood, sweat and tears with web development are going into the back-burner. My husband watches me from afar, how I spend money on classes and books and art materials, how I have to have a scanner NOW, how I can't sleep because I want to keep drawing and painting and in the deep corners of my mind, I don't allow myself to dream.
 
@@ -58,25 +67,28 @@ I bought Lilla Roger's book "I just want to make things". It was an impulse buy,
 
 There were two things that struck me right away:
 
-"People buy your joy"
+**"People buy your joy"**
 And I realized that though I do enjoy making my things, I am anguishing about how much space in my head the material side of it is occupying.
 
 Second thing:
-She makes you dream about your ideal studio.
+
+**She makes you dream about your ideal studio.**
+
 I live in Canada, I used to live in Mexico. When I came to Canada it was by itself a major upgrade, now, I'm not so sure but I live comfortably. I am extremely fortunate.
 So to think about having a studio is like a luxury I can't allow myself to think about too much. I stop whenever I see photos of studios like[ this](http://40.media.tumblr.com/1ab56f9ef901bc525f1f4ff8b2dc360f/tumblr_nb4syxhzyP1r37y5qo3_1280.jpg) 
 I keep telling myself how fortunate I am. I shouldn't wish for more.
 
 But the questions in Lilla's book were so compelling:
-If money were no boject, what kind of studio would you have?
 
-What would it look like? 
+*If money were no boject, what kind of studio would you have?*
 
-Would it have a coffee station? How many workstations? What kind of lightning?
+*What would it look like?* 
 
-Would it have a place for you to stretch out? Would you teach in it?
+*Would it have a coffee station? How many workstations? What kind of lightning?*
 
-Would it be in your home or out of the house?
+*Would it have a place for you to stretch out? Would you teach in it?*
+
+*Would it be in your home or out of the house?*
 
 Before I went to bed last night, as I was falling asleep I mumbled the answers to these questions. In the midst of being awake and not awake, my judgemental voice quieted down and I managed to verbalize all the answers.
 
