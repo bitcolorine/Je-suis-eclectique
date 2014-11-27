@@ -5,6 +5,8 @@ date:   2014-11-26
 category: creativity
 ---
 
+#Trust the Process
+
 It's very hard to not look at what others are doing. It's very hard not to compare, it's very hard to stop thinking: I should have started earlier, it will take me forever to get to where I want to be...
 
 I am improving. I know that, but I'm also creatively blocked. It's like I am saturated with images, colors, styles. It never stops. 
