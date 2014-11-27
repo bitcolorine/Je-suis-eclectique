@@ -63,6 +63,9 @@ The world is full of artists. I wonder if there is a place for me.
 
 LINKS:
 [Elle Luna's talk](https://gigaom.com/2014/11/18/how-to-design-your-way-to-a-better-life/)
+
 [Creative Live with Molly Hatch](https://www.creativelive.com/courses/pattern-design-hand-screen-surface-molly-hatch)
+
 [Creative Live with Bonnie Christine](https://www.creativelive.com/courses/design-surface-patterns-scratch-bonnie-christine)
+
 
