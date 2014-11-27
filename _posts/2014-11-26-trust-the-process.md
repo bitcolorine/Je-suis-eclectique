@@ -25,7 +25,7 @@ But here is the thing, I look through my sketchbooks and I see no clear path, no
 
 I started a 100 day project drawing imaginary animals but I stopped at 65. I wasn't sure I wanted to draw any more animals. I like portraits but I also like sketching objects around me. 
 
-##Bad habits
+###Bad habits
 
 Since I started to draw I have become addicted to Instagram and Pinterest. There, I said it.  With my morning coffee I browse Pinterest, with my head on my pillow I browse Instagram. 
 
@@ -37,7 +37,7 @@ To break this habit apps need to be removed. It's the only remedy. There is no "
 
 Sure it's easy to reinstall them. And even if they warn you: you will lose your data, it's not true. But the fact that you do not have an automatic gesture to execute, is a good habit breaker.
 
-## Inspiration, again.
+### Inspiration, again.
 I discovered Creative Live, and since I'm in between jobs, I've had the chance to watch two classes so far. 
 One was Molly Hatch's hand-made pattern design and the second one was Bonnie Christine, also pattern design but directlty on Illustrator.
 
@@ -46,6 +46,9 @@ Both women have their inspiration thing down. I loved Bonnie's approach, she ins
 Molly on the other hand, showed a very rudimentary way of doing patterns, completely hand-made up to the point to where she scans and cleans them up in photoshop. That day was one of those when I exclaim "I love the internet". I caught both classes live.
 
 While I continue to struggle with the question "what do draw", I have been seeing whales. 
+
+<blockquote class="instagram-media" data-instgrm-captioned data-instgrm-version="4" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"><div style="padding:8px;"> <div style=" background:#F8F8F8; line-height:0; margin-top:40px; padding:50% 0; text-align:center; width:100%;"> <div style=" background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAAGFBMVEUiIiI9PT0eHh4gIB4hIBkcHBwcHBwcHBydr+JQAAAACHRSTlMABA4YHyQsM5jtaMwAAADfSURBVDjL7ZVBEgMhCAQBAf//42xcNbpAqakcM0ftUmFAAIBE81IqBJdS3lS6zs3bIpB9WED3YYXFPmHRfT8sgyrCP1x8uEUxLMzNWElFOYCV6mHWWwMzdPEKHlhLw7NWJqkHc4uIZphavDzA2JPzUDsBZziNae2S6owH8xPmX8G7zzgKEOPUoYHvGz1TBCxMkd3kwNVbU0gKHkx+iZILf77IofhrY1nYFnB/lQPb79drWOyJVa/DAvg9B/rLB4cC+Nqgdz/TvBbBnr6GBReqn/nRmDgaQEej7WhonozjF+Y2I/fZou/qAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;"></div></div> <p style=" margin:8px 0 0 0; padding:0 4px;"> <a href="https://instagram.com/p/vuJ0DrK8qm/" style=" color:#000; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none; word-wrap:break-word;" target="_top">#watercolor #illustration Alegoría a la ansiedad</a></p> <p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;">A photo posted by Luisa F. (@jesuiseclectique) on <time style=" font-family:Arial,sans-serif; font-size:14px; line-height:17px;" datetime="2014-11-22T23:53:22+00:00">Nov 11, 2014 at 3:53pm PST</time></p></div></blockquote>
+<script async defer src="//platform.instagram.com/en_US/embeds.js"></script>
 
 Whales, leviathan's, sea monsters. I have many ideas but I have a problem committing to a long-term project (like the imaginary animals)... 
 
@@ -62,4 +65,4 @@ LINKS:
 [Elle Luna's talk](https://gigaom.com/2014/11/18/how-to-design-your-way-to-a-better-life/)
 [Creative Live with Molly Hatch](https://www.creativelive.com/courses/pattern-design-hand-screen-surface-molly-hatch)
 [Creative Live with Bonnie Christine](https://www.creativelive.com/courses/design-surface-patterns-scratch-bonnie-christine)
-[My first whale ](http://miraenmiburbuja.tumblr.com/post/103514794125/me-in-the-boat)
+
