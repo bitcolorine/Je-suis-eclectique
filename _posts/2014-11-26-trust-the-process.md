@@ -56,7 +56,9 @@ I think I need an accountability partner, or a mentor or someone who will talk a
 
 I watched Elle Luna's Should or Must talk. I have certain reservations about her message, but when I read her article the first time, I really felt she was talking to me. There is a long road, lots of experimenting, lot's of permission to give to oneself. 
 
-I bought the book Trust the Process by Shaun Mcniff. I think I'm in the search for freedom, but I can't find it because I'm too contaminated by the creativity noise. 
+I bought the book Trust the Process by Shaun Mcniff. 
+
+I think I'm in the search for freedom, but I can't find it because I'm too contaminated by the creativity noise. 
 What is creativity? It's a word like Storytelling and Curating: these words are overused and abused. I want to read it once I'm bound for Mexico. I will report back.
 
 The world is full of artists. I wonder if there is a place for me.
