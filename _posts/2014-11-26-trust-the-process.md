@@ -11,7 +11,7 @@ It's very hard to not look at what others are doing. It's very hard not to compa
 
 I am improving. I know that, but I'm also creatively blocked. It's like I am saturated with images, colors, styles. It never stops. 
 
-This week I have been watching old movies, old by my standards, meaning movies from the '80s and early '90s. "That's it" I said to myself, "I'm who I didn't want to become: the lady that to look back." But the truth is I wanted to remember what it was like to spend a whole afternoon doing collage, cutting up magazines and then doing stuff with them, without the fear of copyright infringement, without thinking is this a "derivative" work or am I blatantly copying?
+This week I have been watching old movies, old by my standards, meaning movies from the '80s and early '90s. "That's it" I said to myself, "I'm who I didn't want to become: the lady that likes to look back." But the truth is I wanted to remember what it was like to spend a whole afternoon doing collage, cutting up magazines and then doing stuff with them, without the fear of copyright infringement, without thinking is this a "derivative" work or am I blatantly copying?
 
 The creative afternoons I had when it took me two days to make a mix tape complete with a handmade envelope, a case with all the tracks neatly written down, the letter explaining why each song was there and in that order... the long process of creating and the satisfaction of knowing that you had worked with other people's stuff but that ultimately the product was yours... I want to feel that because lately as I draw and draw from reference photos, I'm always wondering if I'm creative. Or if I'm just a copyist. 
 
